@@ -1,0 +1,33 @@
+C:\Users\skull\source\repos\cSharp Starter Assignment\cSharp Starter Assignment\bin\Debug\cSharp Starter Assignment.exe.config
+C:\Users\skull\source\repos\cSharp Starter Assignment\cSharp Starter Assignment\bin\Debug\cSharp Starter Assignment.exe
+C:\Users\skull\source\repos\cSharp Starter Assignment\cSharp Starter Assignment\bin\Debug\cSharp Starter Assignment.pdb
+C:\Users\skull\source\repos\cSharp Starter Assignment\cSharp Starter Assignment\obj\Debug\cSharp Starter Assignment.csproj.AssemblyReference.cache
+C:\Users\skull\source\repos\cSharp Starter Assignment\cSharp Starter Assignment\obj\Debug\cSharp Starter Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\skull\source\repos\cSharp Starter Assignment\cSharp Starter Assignment\obj\Debug\cSharp_Starter_Assignment.Properties.Resources.resources
+C:\Users\skull\source\repos\cSharp Starter Assignment\cSharp Starter Assignment\obj\Debug\cSharp Starter Assignment.csproj.GenerateResource.cache
+C:\Users\skull\source\repos\cSharp Starter Assignment\cSharp Starter Assignment\obj\Debug\cSharp Starter Assignment.csproj.CoreCompileInputs.cache
+C:\Users\skull\source\repos\cSharp Starter Assignment\cSharp Starter Assignment\obj\Debug\cSharp Starter Assignment.exe
+C:\Users\skull\source\repos\cSharp Starter Assignment\cSharp Starter Assignment\obj\Debug\cSharp Starter Assignment.pdb
+C:\Users\skull\source\repos\cSharp Starter Assignment\cSharp Starter Assignment\obj\Debug\cSharp_Starter_Assignment.StudentAdministrationForm.resources
+C:\Users\skull\Desktop\cSharp Starter Assignment\cSharp Starter Assignment\bin\Debug\cSharp Starter Assignment.exe.config
+C:\Users\skull\Desktop\cSharp Starter Assignment\cSharp Starter Assignment\bin\Debug\cSharp Starter Assignment.exe
+C:\Users\skull\Desktop\cSharp Starter Assignment\cSharp Starter Assignment\bin\Debug\cSharp Starter Assignment.pdb
+C:\Users\skull\Desktop\cSharp Starter Assignment\cSharp Starter Assignment\obj\Debug\cSharp Starter Assignment.csproj.AssemblyReference.cache
+C:\Users\skull\Desktop\cSharp Starter Assignment\cSharp Starter Assignment\obj\Debug\cSharp Starter Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\skull\Desktop\cSharp Starter Assignment\cSharp Starter Assignment\obj\Debug\cSharp_Starter_Assignment.StudentAdministrationForm.resources
+C:\Users\skull\Desktop\cSharp Starter Assignment\cSharp Starter Assignment\obj\Debug\cSharp_Starter_Assignment.Properties.Resources.resources
+C:\Users\skull\Desktop\cSharp Starter Assignment\cSharp Starter Assignment\obj\Debug\cSharp Starter Assignment.csproj.GenerateResource.cache
+C:\Users\skull\Desktop\cSharp Starter Assignment\cSharp Starter Assignment\obj\Debug\cSharp Starter Assignment.csproj.CoreCompileInputs.cache
+C:\Users\skull\Desktop\cSharp Starter Assignment\cSharp Starter Assignment\obj\Debug\cSharp Starter Assignment.exe
+C:\Users\skull\Desktop\cSharp Starter Assignment\cSharp Starter Assignment\obj\Debug\cSharp Starter Assignment.pdb
+C:\Users\skull\Desktop\Baris_Buba_Starter_Assignment\cSharp Starter Assignment\bin\Debug\cSharp Starter Assignment.exe.config
+C:\Users\skull\Desktop\Baris_Buba_Starter_Assignment\cSharp Starter Assignment\bin\Debug\cSharp Starter Assignment.exe
+C:\Users\skull\Desktop\Baris_Buba_Starter_Assignment\cSharp Starter Assignment\bin\Debug\cSharp Starter Assignment.pdb
+C:\Users\skull\Desktop\Baris_Buba_Starter_Assignment\cSharp Starter Assignment\obj\Debug\cSharp Starter Assignment.csproj.AssemblyReference.cache
+C:\Users\skull\Desktop\Baris_Buba_Starter_Assignment\cSharp Starter Assignment\obj\Debug\cSharp Starter Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\skull\Desktop\Baris_Buba_Starter_Assignment\cSharp Starter Assignment\obj\Debug\cSharp_Starter_Assignment.StudentAdministrationForm.resources
+C:\Users\skull\Desktop\Baris_Buba_Starter_Assignment\cSharp Starter Assignment\obj\Debug\cSharp_Starter_Assignment.Properties.Resources.resources
+C:\Users\skull\Desktop\Baris_Buba_Starter_Assignment\cSharp Starter Assignment\obj\Debug\cSharp Starter Assignment.csproj.GenerateResource.cache
+C:\Users\skull\Desktop\Baris_Buba_Starter_Assignment\cSharp Starter Assignment\obj\Debug\cSharp Starter Assignment.csproj.CoreCompileInputs.cache
+C:\Users\skull\Desktop\Baris_Buba_Starter_Assignment\cSharp Starter Assignment\obj\Debug\cSharp Starter Assignment.exe
+C:\Users\skull\Desktop\Baris_Buba_Starter_Assignment\cSharp Starter Assignment\obj\Debug\cSharp Starter Assignment.pdb
